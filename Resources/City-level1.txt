@@ -1,0 +1,28 @@
+                                === City ===
+
+Artorias, a practiced warlock, traverses the cobbled streets of Cordowa alongside his younger brother, Reginold. The echoes of their recent sparring session linger in the air, blending with the city's usual hustle.
+"Must we engage in these physical activities, Artorias?" Reginold complains, his playful spirit evident. "I'd rather be lost in the pages of my books than subjected to this torment."Artorias, a teasing smirk playing on his lips, responds, "Strength in both mind and body is essential, Reginold. You never know when you might need to defend yourself. Picture a mage in the midst of a battle, trying to cast a spell with a wand that's actually a quill. A fight that ends with ink stains rather than victory. Besides, the training might make you a tad bit taller." Reginold smirks, "For your information, my height is perfect for a 15-year-old. It's just you that's beyond the norm." They share a lighthearted moment, the banter a familiar melody in their sibling relationship.
+As Artorias and Reginold continue through the cobbled streets, their banter fades into solemn silence as they witness a heart-wrenching scene. Before them stands a man marked with the ominous black circle, known as the Dark Sign. The Knights of the Sun, unyielding in their duty, surround the man. He pleads for mercy, his voice echoing through the narrow alleys. The knights, with stoic determination, lead him away, leaving behind his wife whose weeping forms a mournful sight.Reginold, his youthful eyes filled with empathy and fear, turns to Artorias. "It's too harsh, brother. Taking him away from his loved ones."
+"Sometimes, Reginold, actions deemed harsh are essential to protect the many. Those marked with the Dark Sign are fated to descend into demonhood unless a cure is found." Artorias' voice carries a weight of conviction, his gaze fixed on the retreating figures of the Knights of the Sun. "The safety of the city depends on the swift measures taken by the order. Sacrifices, though painful, are sometimes necessary.""But what if it happened to one of us?" Reginold questions, his words hanging in the air, leaving Artorias with a somber expression and no immediate response.
+Homecoming brought Artorias and Reginold to the familiar refuge of their dwelling. The ornate gates creaked closed behind them as they traversed the courtyard, making their way to the silent garden where the gravestones of their departed parents stood as solemn sentinels. The brothers knelt, their heads bowed in quiet prayer.
+As midnight descended, Artorias awoke to a haunting scream that echoed through the halls. Urgency gripped his heart as he rushed to Reginold's room. There, he found his younger brother, shaking and sweating, caught in the clutches of a nightmarish vision. A dark circle, unmistakable, marred Reginold's arm.
+Artorias, torn between the duty he bore as an archknight in training and the overwhelming surge of protectiveness for his brother, hesitated. The memory of his mother's dying moments flashed vividly in his mind the warmth of her frail hand in his, the promise he made to always protect Reginold. The weight of that heart-wrenching promise clashed with the reality of the cursed mark before him.In the dim light, the sound of hurried footsteps fleeing from the room snapped Artorias back to his senses. The new maid, wide-eyed with terror, had witnessed the cursed mark and fled to report the ominous sign. The urgency intensified as Artorias realized the imminent danger they faced. "We need to leave the city immediately," he declared, the weight of responsibility heavy in his words.
+Its not been much time since the maid left to alert the knights. Will you go through the city gates or the canal.
+
+choice:Canal
+With urgency burning in their veins, Artorias and Reginold navigated the labyrint hine streets, avoiding the prying eyes of the Knights of the Sun. The canal that connected Cordowa to the vast fields beyond promised a clandestine escape.
+In a decisive moment, Artorias led Reginold to the edge of the canal. The water, a murky passage to freedom, awaited them. With a determined nod, they leaped into the cool depths, the splash echoing their defiance.
+Artorias, his athleticism honed through rigorous training, propelled them forward with powerful strokes. The brothers emerged on the outskirts of the city, gasping for breath but free from the suffocating grip of Cordowa. The moon cast its silver glow upon the fields as they stood on the banks, a momentary respite in their journey.
+
+choice:Gate
+With urgency burning in their veins, Artorias and Reginold navigated the labyrinthine streets, avoiding the prying eyes of the Knights of the Sun. Apon reaching the city gates the brothers are met with 2 Armored knights with swords in hand.The guards are awake, how unusual. The screams of the maid must have woken them up. Artorias takes out his sword from its scabbard, the last remnant of his late father. The knights are quickly disarmed and knocked out by artorias.
+Do you wish to search the guards. It is unethical but you might find something usefull.
+
+#below choices are sub-choices after choosing choice Gate
+choice:No-Money
+The brothers make way to the outskirts of the city, free from the suffocating grip of Cordowa. 
+
+choice:Money
+Artorias takes out a pouch filled with coins from the guards pocket.The brothers make way to the outskirts of the city, free from the suffocating grip of Cordowa.
+
+++coins added to inventory++ 

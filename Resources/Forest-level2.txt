@@ -1,0 +1,60 @@
+                                === The Forest ===
+
+Reginold's gaze was distant, his voice tinged with desperation, "Brother, I can't bear the thought of turning into a monster, hurting you, hurting others. We should go back, or... or maybe you should just end it now."
+Artorias, his expression a mixture of sorrow and determination, shook his head. "I won't entertain such thoughts, Reginold. I won't harm my own brother. We'll find a way to break this curse, together."
+Reginold's eyes pleaded, "Please, you don't know what it's like. The nightmares, the whispers in my mind. I can't bear the thought of hurting you. Promise me, if it ever comes to that, you'll end me before I become a danger."
+Artorias, his hand still resting on Reginold's shoulder, hesitated for a moment before nodding solemnly. "I promise, Reginold. But let's not lose hope. We'll find a way to break this curse, and you won't have to face that fate." The weight of the promise settled on Artorias' shoulders, a pact forged in the face of the unknown.
+After days of traversing through dense woods and open fields, surviving on meager supplies, Artorias and Reginold finally reached the rumored abode of the witch. Their journey had tested their resilience, with Artorias using his hunting skills to secure food, and Reginold's mastery of spells providing warmth and even a somewhat effective mosquito repellent.
+As they approached, the witch's house revealed itself, appearing deceptively normal—a quaint herbalist's dwelling nestled within the embrace of nature. The exterior showed no signs of the mystical power that was said to reside within. Yet, the brothers knew appearances could be deceiving, and the answers they sought might be found within the unassuming walls of the herbalist's haven.
+The door opened to reveal not the expected image of a frail old witch but a fair maiden, roughly the same age as Artorias. Her striking purple eyes held a curious gaze as she looked at the brothers standing before her. The air seemed to shimmer with an unspoken connection, as if the very presence of these two visitors intrigued her.
+She regarded them silently for a moment before speaking, her voice carrying an otherworldly grace mixed with an undercurrent of suppressed excitement, "I sense an uncommon energy about you. What brings you to this humble abode?" The maiden's curiosity was palpable, and the brothers exchanged glances, unsure of how to respond.
+With a gentle smile, the maiden continued, "I am Lyra, apprentice to the witch who once dwelled here. The witch passed away some years ago, leaving me to tend to her sanctuary. But I have not often welcomed humans into this haven. You, however, bear an aura that piques my interest. Come inside, and perhaps we can unravel the threads that have brought you here." The door swung open, revealing the enigmatic world within the herbalist's house.
+The door closed behind them, and the brothers found themselves in the midst of the herbalist's abode. Though Artorias and Reginold maintained a guarded demeanor, the atmosphere within the dwelling was surprisingly serene. Lyra, their guide through this mystical sanctuary, occasionally stumbled over her words as she tried to emulate the grace of her late master.
+As they walked through the cozy space, Reginold finding Lyra's manner of speech a bit funny teased, "Your way of talking is quite unique, Lyra. Must be a witch thing, huh?"
+Lyra chuckled a bit embarrassed, "Well, my master always spoke this way. I've tried to... emulate her. It's not as easy as it seems."
+Artorias redirected the conversation, "We are here seeking information about a misfortune that has befallen my brother. T_"
+Lyra interjected, "The curse you mean? Yes, I could sense it on your brother the moment you arrived. My master spoke of such afflictions. Let me find the relevant book for you." She disappeared into the shelves, searching for the elusive tome.
+
+*Choice1: Wait Patiently*
+
+
+*Choice2: Explore the Herbalist's House*
+Artorias gets up and begins exploring the place. The house is filled with different varieties of potted plants, although some do look more bizzare. Not finding anything interesting artorias returns to his place.
+
+After a while Lyra emerged from the shelves, a worn tome in her hands. The pages crackled with ancient knowledge, and she carefully turned them, revealing the ongoing research of the late witch on the curse that plagued Reginold.
+"It seems my master was on the brink of a breakthrough," Lyra murmured, her eyes scanning the pages. "The cure requires the blood of Flegrea, the demon king, and the blood of an archdragon, to be obtained from the Celestial Scales Summit."
+Artorias furrowed his brow, "Celestial Scales Summit..., I've heard of it, but what about this Flegrea?"
+Lyra's eyes met Artorias's, and she explained, "Flegrea is the name of the ancient being of immense power, a being entwined with the origins of the curse. To obtain the cure, you'll need both its blood and that of an archdragon. The Celestial Scales Summit holds the latter."
+
+*Choice3: Ask About Celestial Scales Summit*
+Artorias, his gaze fixed on Lyra, questioned, "Celestial Scales Summit... I've heard whispers of it, a treacherous mountain where dragons dwell. But what more can you tell us about this place? Why would the cure lead us there?"
+Lyra, her eyes shimmering with a mix of awe and recollection, began, "The Celestial Scales Summit has long been the domain of dragons. Majestic creatures, wise and ancient, have made those peaks their home. The air is thin, and the terrain perilous, but the sight from the summit is breathtaking—a panorama of boundless skies and untouched wilderness. However, it's not just the dragons that make this place extraordinary; there's a hidden history, a connection to the very fabric of our world." She paused, her gaze distant as if recalling the beauty of the summit.
+"It seems like you have been there." artorias remarks. Lyra nervously replies "ahh...  I was just uhh.. relaying what my master used to say about the place."
+
+*Choice4: Say nothing*
+
+Reginold's expression fell, the weight of the seemingly insurmountable quest pressing upon him. Artorias, however, remained resolute. He had already made up his mind, determined to do whatever it took to save his younger brother from the clutches of the curse.
+Lyra, observing the weight of despair in Reginold's expression, leaned in with a soft, reassuring tone, "Well, ahh.. there still some good news" Her eyes conveyed sincerity.
+She continued, "We don't have to directly confront the demon king for his blood. That's like moths rushing blindly into a burning flame. My master had a more cautious plan. There's an ancient shrine, a hidden relic of the past where the demon king is worshipped. Centuries after the Great War, when humans and dragons pushed the demons into the underworld, cultists stumbled upon it. A vial of his blood is said to be preserved there, a secret waiting for the right hands to uncover."
+Artorias picked up on the word "plan" in Lyra's dialogue, a spark of realization in his eyes. "It sounds like your master had something big in the works, preparing for an expedition, perhaps?"
+Lyra hesitated for a moment, her gaze shifting, "Yes, an expedition. But she never revealed the details to me."
+
+*Choice 5: Ask About the Witch's Plan*
+Artorias, a genuine expression of gratitude on his face, sought more information, "Lyra, you've been a great help to us. I can't help but wonder about your master's expedition. Do you have any insights into what she might have been planning? Your knowledge could be invaluable as we navigate through this journey."
+Lyra, a hint of regret in her eyes, responded with sincerity, "I wish I could offer more insight, truly. However, my master kept her plans closely guarded. As her apprentice, there were many things she chose not to share with me. I'm here to assist you in any way I can, but the specifics of her expedition remain a mystery to me."
+
+*Choice 6: Trust Lyra's Judgment*
+
+
+Artorias, grateful for Lyra's assistance, gently took her palm in both hands, his sincerity evident. "Thank you, Lyra. Your help means more than you can imagine."
+A subtle blush crept onto Lyra's cheeks, momentarily catching her off guard. As she regained her composure, Artorias made a promise, "If we make it back,I promise I'll repay you for your kindness."
+
+Lyra, her eyes meeting Artorias's, suggested with a smile, "Well, you could start by taking me along on this journey of yours. I'm searching for someone, and the aura you and your brother possess is similar to his. I believe that someone might be in the Celestial Scales Summit. Besides, it'll be nice to have some company on the road."
+
+*Choice 8: Agree to Take Lyra Along*
+Artorias sighed, a small smile playing on his lips. "Alright, fine. You're quite the stubborn one, aren't you? If you're determined to join us, we won't stop you. Just know, the road ahead is anything but certain."
+Reginold, his eyes brightening with a hint of joy, chimed in, "Fantastic! We could use some company on this journey. Welcome aboard, Lyra. Big sis, it is!"
+
+*Choice 9: Refuse to Take Lyra Along*
+Artorias looks at lyra and says "Lyra, I appreciate your willingness, but your help has been more than enough. It's not something you should willingly step into. This journey... I can't guarantee we'll make it back alive.
+Lyra, undeterred, met his gaze with determination. "Artorias, I appreciate the warning. But truth be told, I was planning on embarking on this journey in the future anyway. So, why not face the uncertainties together? Strength in numbers, right?" She offered a reassuring smile, her resolve unwavering.
